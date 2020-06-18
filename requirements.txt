@@ -1,0 +1,6 @@
+tensorflow==1.14.0 
+keras==2.3.0 
+pyfcm 
+mysql-connector-python-rf 
+keras-retinanet 
+flask 
